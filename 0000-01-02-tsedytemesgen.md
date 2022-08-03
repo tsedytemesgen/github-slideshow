@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+" i would like to finsh this course 
 Use the left arrow to go ba
